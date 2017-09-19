@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="location_permission_checkbox" type="id">Location Permissions</item>
+    <item name="ringer_permissions_checkbox" type="id">Ringer Permissions</item>
 </resources>
